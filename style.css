@@ -52,6 +52,12 @@ body {
     margin: 27px auto;
 }
 
+p {
+    text-align: center;
+    font-size: 1.1em;
+    color: #555;
+}
+
 .link {
     position: relative;
     background-color: transparent;

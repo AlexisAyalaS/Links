@@ -8,7 +8,7 @@ This is a simple project consisting of an index.html file designed to redirect u
 ## 🎉 Demo
 You can experience the functionality of this project through the following demo link: [Demo Page](https://alexisayala.com/Links)
 
-<img src="https://res.cloudinary.com/linguative/image/upload/v1692822137/Captura_de_pantalla_2023-08-23_142157_jl5wyk.png">
+<img src="https://res.cloudinary.com/solorioapps/image/upload/v1692822137/Links/Captura_de_pantalla_2023-08-23_142157_jl5wyk.png" alt="image">
 
 ## 🔧 Usage
 Clone this repository to your local device or download the index.html file directly.

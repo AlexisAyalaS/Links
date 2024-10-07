@@ -12,8 +12,8 @@ body {
     margin: 0;
     padding: 0;
     min-height: 100vh;
-    font-family: var(--font);
-    background-image: url('https://res.cloudinary.com/linguative/image/upload/v1692763861/5566879_nk0xay.jpg');
+    font-family: var(--font), serif;
+    background-image: url('https://res.cloudinary.com/solorioapps/image/upload/v1692763861/Links/5566879_nk0xay.jpg');
     opacity: 0;
     animation: 1s ease-out var(--delay) 1 transitionAnimation;
     animation-fill-mode: forwards;
@@ -39,7 +39,7 @@ body {
     font-weight: bold;
     line-height: 1.25;
     display: block;
-    font-family: var(--font);
+    font-family: var(--font), serif;
     width: 100%;
     text-align: center;
     text-decoration: none;
@@ -95,14 +95,13 @@ p {
     color: var(--accentColor);
     font-size: 1rem;
     display: block;
-    font-family: var(--font);
+    font-family: var(--font), serif;
     width: 100%;
     text-align: center;
 
     /*  animation   */
     overflow: hidden;
-    background: linear-gradient(90deg, var(--bgColor), var(--accentColor), var(--bgColor));
-    background-repeat: no-repeat;
+    background: linear-gradient(90deg, var(--bgColor), var(--accentColor), var(--bgColor)) no-repeat;
     background-size: 80%;
     animation: animate 3s linear var(--delay) infinite;
     -webkit-background-clip: text;
